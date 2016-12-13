@@ -14,6 +14,8 @@ int main(int argc, char *argv[])
     cv::imshow("hello Image", image);
     cv::waitKey(0);
 
+    //thats done
+
 
 
 
